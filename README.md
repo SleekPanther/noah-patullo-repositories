@@ -16,6 +16,10 @@ Adapted existing tutorial to create mobile-friendly responsive menu. (Most work 
 - [Intro Web Design Final Project](https://github.com/SleekPanther/assignment5.0)  
 Very simple site for a fake graphic design company. Not my prodest work now, but it was a start when I was learning
 
+####Team Projects (Repositories Contributed to)
+- [Books 4 Equality repository](https://github.com/books4equality/books4equality) and [Live Site](http://www.books4equality.com/)  
+Website for a Student-run club that lends out free textbooks to UVM students  
+Site runs in Node.js but I mostly worked on the front-end
 
 ##Java
 - [Even or Odd Game](https://github.com/SleekPanther/even-odd-game)  
