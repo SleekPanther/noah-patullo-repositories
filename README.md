@@ -1,5 +1,6 @@
 # Noah Patullo's Repositories & Projects
-A list of projects I've worked on
+A list of projects I've worked on  
+[LinkedIn Profile](https://www.linkedin.com/in/NoahPatullo)
 
 ##Websites (web related)
 - [PHP Magic Linking](https://github.com/SleekPanther/php-magic-linking)  
