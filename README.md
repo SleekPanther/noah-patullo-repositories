@@ -14,7 +14,7 @@ Website Final Project for web design & css class (CS 142)
 - [Pure CSS Dropdown](https://github.com/SleekPanther/css-dropdown)  
 Adapted existing tutorial to create mobile-friendly responsive menu. (Most work is **not mine**, but I added comments to help myself & simplify some CSS)
 - [Intro Web Design Final Project](https://github.com/SleekPanther/assignment5.0)  
-Very simple site for a fake graphic design company. Not my prodest work now, but it was a start when I was learning
+Very simple site for a fake graphic design company. Not my proudest work now, but it was a start when I was learning
 
 ####Team Projects (Repositories Contributed to)
 - [Books 4 Equality repository](https://github.com/books4equality/books4equality) and [Live Site](http://www.books4equality.com/)  
@@ -30,6 +30,10 @@ Final Project for CS 110 at UVM (Only the final runnable `.jar` file since the p
 Cobbled together various existing algorithms for finding Prime Factors. I did not design the algorithms, but focused on creating a way for users to interact more easily
 - [Pascal's Triangle](https://github.com/SleekPanther/pascal)  
 Used my knowledge of Java arrays to print out an arbitrary number of rows of Pascal's Triangle
+- [Java Rounding Improved](https://github.com/SleekPanther/java-math-improved-round)  
+A function that allows you to specify how many decimals to round to
+- [Java Random() Improved](https://github.com/SleekPanther/java-math-improved-random)  
+Several overloaded methods to allow you to specify an upper and lower bound for random numbers
 
 ##Python
 - [Alphabet Guessing Game (Python)](https://github.com/SleekPanther/alphabet-guessing-game)  
