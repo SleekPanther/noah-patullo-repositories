@@ -34,6 +34,8 @@ Used my knowledge of Java arrays to print out an arbitrary number of rows of Pas
 A function that allows you to specify how many decimals to round to
 - [Java Random() Improved](https://github.com/SleekPanther/java-math-improved-random)  
 Several overloaded methods to allow you to specify an upper and lower bound for random numbers
+- [Loop Performace (`i++` vs `++i`)](https://github.com/SleekPanther/loop-performance)  
+Runtime comparison between post and pre increment
 
 ##Python
 - [Alphabet Guessing Game (Python)](https://github.com/SleekPanther/alphabet-guessing-game)  
