@@ -26,7 +26,8 @@ Site runs in Node.js but I mostly worked on the front-end
 Replicated a simple Android app using JavaFX & skills I learned from CS 110 at UVM
 - [Tetris Game](https://github.com/SleekPanther/tetris-java)  
 Final Project for CS 110 at UVM (Only the final runnable `.jar` file since the professor doesn't want the solutions to be public)
-<!-- BFS -->
+- [Breadth First Search / Depth First Search - Graph Algorithms](https://github.com/SleekPanther/graphs-bfs-dfs-java)  
+Implementation of the common BFS & DFS algorithms
 - [Prime Factorization (Java)](https://github.com/SleekPanther/prime-factor-java)  
 Cobbled together various existing algorithms for finding Prime Factors. I did not design the algorithms, but focused on creating a way for users to interact more easily
 - [Pascal's Triangle](https://github.com/SleekPanther/pascal)  
@@ -46,8 +47,3 @@ A semi-trivial game, but I did this to try and teach myself to associate letters
 ###Notes
 My college's Computer Science department (University of Vermont) has had issues with academic integrity. Some students posted solutions to textbook problems and other students copied them. So my public repositories are only the ones which **do not involve textbook problems or professors' starter code.**  
 I have some more private repositories with class assignments and could grant access to potential employers or interested parties.
-
-<!--
-- [Breadth First Search / Depth First Search - Graph Algorithms](https://github.com/SleekPanther/graphs-bfs-dfs-java)  
-Implementation of the common BFS & DFS algorithms
--->
