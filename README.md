@@ -28,6 +28,8 @@ Replicated a simple Android app using JavaFX & skills I learned from CS 110 at U
 Final Project for CS 110 at UVM (Only the final runnable `.jar` file since the professor doesn't want the solutions to be public)
 - [Breadth First Search / Depth First Search - Graph Algorithms](https://github.com/SleekPanther/graphs-bfs-dfs-java)  
 Implementation of the common BFS & DFS algorithms
+- [Interval Partitioning (Greedy Algorithm)](https://github.com/SleekPanther/interval-partitioning-greedy-algorithm)  
+Java Implementation of the greedy algorithm for the Interval Partitioning Problem
 - [Prime Factorization (Java)](https://github.com/SleekPanther/prime-factor-java)  
 Cobbled together various existing algorithms for finding Prime Factors. I did not design the algorithms, but focused on creating a way for users to interact more easily
 - [Pascal's Triangle](https://github.com/SleekPanther/pascal)  
