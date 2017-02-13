@@ -26,7 +26,7 @@ Site runs in Node.js but I mostly worked on the front-end
 Replicated a simple Android app using JavaFX & skills I learned from CS 110 at UVM
 - [Tetris Game](https://github.com/SleekPanther/tetris-java)  
 Final Project for CS 110 at UVM (Only the final runnable `.jar` file since the professor doesn't want the solutions to be public)
-- [Breadth First Search / Depth First Search - Graph Algorithms](https://github.com/SleekPanther/graphs-bfs-dfs-java)  
+- [Breadth First Search / Depth First Search - Graph Algorithms](https://github.com/SleekPanther/breadth-first-search-depth-first-search-graphs)  
 Implementation of the common BFS & DFS algorithms
 - [Interval Partitioning (Greedy Algorithm)](https://github.com/SleekPanther/interval-partitioning-greedy-algorithm)  
 Java Implementation of the greedy algorithm for the Interval Partitioning Problem
