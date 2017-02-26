@@ -49,3 +49,8 @@ A semi-trivial game, but I did this to try and teach myself to associate letters
 ###Notes
 My college's Computer Science department (University of Vermont) has had issues with academic integrity. Some students posted solutions to textbook problems and other students copied them. So my public repositories are only the ones which **do not involve textbook problems or professors' starter code.**  
 I have some more private repositories with class assignments and could grant access to potential employers or interested parties.
+
+<!--
+- [Kruskal's Algorithm Minimum Spanning Tree](https://github.com/SleekPanther/kruskals-algorithm-minimum-spanning-tree-mst)  
+Java Implementation to find a MST from a graph
+-->
