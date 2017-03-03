@@ -42,6 +42,8 @@ Several overloaded methods to allow you to specify an upper and lower bound for 
 Runtime comparison between post and pre increment
 
 ##Python
+- [Binary Hexadecimal Conversion](https://github.com/SleekPanther/binary-hexadecimal-conversion)  
+Convert hex to binary & binary to hex
 - [Alphabet Guessing Game (Python)](https://github.com/SleekPanther/alphabet-guessing-game)  
 A very simple game to guess the numerical representation of a letter in the alphabet, or guess the letter from the number (A=1,B=2,...Z=26).  
 A semi-trivial game, but I did this to try and teach myself to associate letters with numbers, not just the alphabetical order of letters
