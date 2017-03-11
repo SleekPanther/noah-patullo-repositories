@@ -55,5 +55,6 @@ My college's Computer Science department (University of Vermont) has had issues 
 I have some more private repositories with class assignments and could grant access to potential employers or interested parties.
 
 <!--
-
+- [Knapsack Problem - Dynamic Programming](https://github.com/SleekPanther/knapsack-problem)  
+Implementation of the classis 0-1 Knapsack Problem
 -->
