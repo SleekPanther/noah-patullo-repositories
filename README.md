@@ -2,7 +2,7 @@
 A list of projects I've worked on  
 [LinkedIn Profile](https://www.linkedin.com/in/NoahPatullo)
 
-##Websites (web related)
+## Websites (web related)
 - [PHP Magic Linking](https://github.com/SleekPanther/php-magic-linking)  
 My own invention: a php template that simplifies linking to nested folders & automatically print the correct number of ../ before links
 - [Merrill's Roxy Cinema](https://github.com/SleekPanther/roxy)  
@@ -16,12 +16,12 @@ Adapted existing tutorial to create mobile-friendly responsive menu. (Most work 
 - [Intro Web Design Final Project](https://github.com/SleekPanther/assignment5.0)  
 Very simple site for a fake graphic design company. Not my proudest work now, but it was a start when I was learning
 
-####Team Projects (Repositories Contributed to)
+#### Team Projects (Repositories Contributed to)
 - [Books 4 Equality repository](https://github.com/books4equality/books4equality) and [Live Site](http://www.books4equality.com/)  
 Website for a Student-run club that lends out free textbooks to UVM students  
 Site runs in Node.js but I mostly worked on the front-end
 
-##Java
+## Java
 - [Even or Odd Game](https://github.com/SleekPanther/even-odd-game)  
 Replicated a simple Android app using JavaFX & skills I learned from CS 110 at UVM
 - [Tetris Game](https://github.com/SleekPanther/tetris-java)  
@@ -43,7 +43,7 @@ Several overloaded methods to allow you to specify an upper and lower bound for 
 - [Loop Performace (`i++` vs `++i`)](https://github.com/SleekPanther/loop-performance)  
 Runtime comparison between post and pre increment
 
-##Python
+## Python
 - [Binary Hexadecimal Conversion](https://github.com/SleekPanther/binary-hexadecimal-conversion)  
 Convert hex to binary & binary to hex
 - [Alphabet Guessing Game (Python)](https://github.com/SleekPanther/alphabet-guessing-game)  
