@@ -25,7 +25,7 @@ Site runs in Node.js but I mostly worked on the front-end
 - [Even or Odd Game](https://github.com/SleekPanther/even-odd-game)  
 Replicated a simple Android app using JavaFX & skills I learned from CS 110 at UVM
 - [Tetris Game](https://github.com/SleekPanther/tetris-java)  
-Final Project for CS 110 at UVM (Only the final runnable `.jar` file since the professor doesn't want the solutions to be public)
+Final Project for CS 110 at UVM
 - [Kruskal's Algorithm Minimum Spanning Tree](https://github.com/SleekPanther/kruskals-algorithm-minimum-spanning-tree-mst)  
 Java Implementation to find a MST from a graph
 - [Breadth First Search / Depth First Search - Graph Algorithms](https://github.com/SleekPanther/breadth-first-search-depth-first-search-graphs)  
