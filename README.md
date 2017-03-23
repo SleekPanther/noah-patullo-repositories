@@ -26,6 +26,8 @@ Site runs in Node.js but I mostly worked on the front-end
 Replicated a simple Android app using JavaFX & skills I learned from CS 110 at UVM
 - [Tetris Game](https://github.com/SleekPanther/tetris-java)  
 Final Project for CS 110 at UVM
+- [Knapsack Problem - Dynamic Programming](https://github.com/SleekPanther/knapsack-problem)  
+Implementation of the classis 0-1 Integer Knapsack Problem
 - [Kruskal's Algorithm Minimum Spanning Tree](https://github.com/SleekPanther/kruskals-algorithm-minimum-spanning-tree-mst)  
 Java Implementation to find a MST from a graph
 - [Breadth First Search / Depth First Search - Graph Algorithms](https://github.com/SleekPanther/breadth-first-search-depth-first-search-graphs)  
@@ -55,6 +57,5 @@ My college's Computer Science department (University of Vermont) has had issues 
 I have some more private repositories with class assignments and could grant access to potential employers or interested parties.
 
 <!--
-- [Knapsack Problem - Dynamic Programming](https://github.com/SleekPanther/knapsack-problem)  
-Implementation of the classis 0-1 Knapsack Problem
+
 -->
