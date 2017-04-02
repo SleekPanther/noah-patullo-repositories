@@ -54,10 +54,7 @@ Convert hex to binary & binary to hex
 A very simple game to guess the numerical representation of a letter in the alphabet, or guess the letter from the number (A=1,B=2,...Z=26).  
 A semi-trivial game, but I did this to try and teach myself to associate letters with numbers, not just the alphabetical order of letters
 
-### Notes
-My college's Computer Science department (University of Vermont) has had issues with academic integrity. Some students posted solutions to textbook problems and other students copied them. So my public repositories are only the ones which **do not involve textbook problems or professors' starter code.**  
-I have some more private repositories with class assignments and could grant access to potential employers or interested parties.
-
 <!--
-
+- [Ford Fulkerson Max Flow Algorithm](https://github.com/SleekPanther/ford-fulkerson)  
+Finds max flow / min cut in a Flow Network. (Simple version, no capacity scaling)
 -->
