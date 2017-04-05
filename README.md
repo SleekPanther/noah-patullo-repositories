@@ -57,4 +57,8 @@ A semi-trivial game, but I did this to try and teach myself to associate letters
 <!--
 - [Ford Fulkerson Max Flow Algorithm](https://github.com/SleekPanther/ford-fulkerson)  
 Finds max flow / min cut in a Flow Network. (Simple version, no capacity scaling)
+
+bipartite testing
+
+c++ rush hour
 -->
