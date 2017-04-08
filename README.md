@@ -4,7 +4,7 @@ A list of projects I've worked on
 
 ## Websites (web related)
 - [PHP Magic Linking](https://github.com/SleekPanther/php-magic-linking)  
-My own invention: a php template that simplifies linking to nested folders & automatically print the correct number of ../ before links
+My own invention: a php template that simplifies linking to nested folders & automatically print the correct number of `../` before links
 - [Merrill's Roxy Cinema](https://github.com/SleekPanther/roxy)  
 Website Final project for database class (CS 148) focusing on the back end managing adding movies & updating showtimes for a generic movie theater
 - [Invert Checkbox Selection (& deselect radion buttons)](https://github.com/SleekPanther/checkbox-toggle-selection)  
@@ -32,6 +32,8 @@ Implementation of the classic 0-1 Integer Knapsack Problem
 Java Implementation to find a MST from a graph
 - [Breadth First Search / Depth First Search - Graph Algorithms](https://github.com/SleekPanther/breadth-first-search-depth-first-search-graphs)  
 Implementation of the common BFS & DFS algorithms
+- [Bipartite Graph Testing Algorithm](https://github.com/SleekPanther/bipartite-algorithm)  
+Modification of Breadth First Search to identify bipartite graphs
 - [Ford Fulkerson Max Flow Algorithm](https://github.com/SleekPanther/ford-fulkerson)  
 Finds max flow / min cut in a Flow Network. (Simple version, no capacity scaling)
 - [Interval Partitioning (Greedy Algorithm)](https://github.com/SleekPanther/interval-partitioning-greedy-algorithm)  
@@ -57,9 +59,6 @@ A very simple game to guess the numerical representation of a letter in the alph
 A semi-trivial game, but I did this to try and teach myself to associate letters with numbers, not just the alphabetical order of letters
 
 <!--
-- [Bipartite Graph Testing Algorithm](https://github.com/SleekPanther/bipartite-algorithm)  
-Modification of Breadth First Search to identify bipartite graphs
-
 c++ rush hour
 
 Gpa calculator
