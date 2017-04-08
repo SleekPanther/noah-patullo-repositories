@@ -27,11 +27,13 @@ Replicated a simple Android app using JavaFX & skills I learned from CS 110 at U
 - [Tetris Game](https://github.com/SleekPanther/tetris-java)  
 Final Project for CS 110 at UVM
 - [Knapsack Problem - Dynamic Programming](https://github.com/SleekPanther/knapsack-problem)  
-Implementation of the classis 0-1 Integer Knapsack Problem
+Implementation of the classic 0-1 Integer Knapsack Problem
 - [Kruskal's Algorithm Minimum Spanning Tree](https://github.com/SleekPanther/kruskals-algorithm-minimum-spanning-tree-mst)  
 Java Implementation to find a MST from a graph
 - [Breadth First Search / Depth First Search - Graph Algorithms](https://github.com/SleekPanther/breadth-first-search-depth-first-search-graphs)  
 Implementation of the common BFS & DFS algorithms
+- [Ford Fulkerson Max Flow Algorithm](https://github.com/SleekPanther/ford-fulkerson)  
+Finds max flow / min cut in a Flow Network. (Simple version, no capacity scaling)
 - [Interval Partitioning (Greedy Algorithm)](https://github.com/SleekPanther/interval-partitioning-greedy-algorithm)  
 Java Implementation of the greedy algorithm for the Interval Partitioning Problem
 - [Fibonacci Algorithms Runtime Comparison](https://github.com/SleekPanther/fibonacci-algorithms-comparison)  
@@ -55,9 +57,6 @@ A very simple game to guess the numerical representation of a letter in the alph
 A semi-trivial game, but I did this to try and teach myself to associate letters with numbers, not just the alphabetical order of letters
 
 <!--
-- [Ford Fulkerson Max Flow Algorithm](https://github.com/SleekPanther/ford-fulkerson)  
-Finds max flow / min cut in a Flow Network. (Simple version, no capacity scaling)
-
 - [Bipartite Graph Testing Algorithm](https://github.com/SleekPanther/bipartite-algorithm)  
 Modification of Breadth First Search to identify bipartite graphs
 
