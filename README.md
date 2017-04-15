@@ -34,7 +34,7 @@ Java Implementation to find a MST from a graph
 Implementation of the common BFS & DFS algorithms
 - [Bipartite Graph Testing Algorithm](https://github.com/SleekPanther/bipartite-algorithm)  
 Modification of Breadth First Search to identify bipartite graphs
-- [Ford Fulkerson Max Flow Algorithm](https://github.com/SleekPanther/ford-fulkerson)  
+- [Ford Fulkerson Max Flow Algorithm - Flow Networks](https://github.com/SleekPanther/ford-fulkerson)  
 Finds max flow / min cut in a Flow Network. (Simple version, no capacity scaling)
 - [Interval Partitioning (Greedy Algorithm)](https://github.com/SleekPanther/interval-partitioning-greedy-algorithm)  
 Java Implementation of the greedy algorithm for the Interval Partitioning Problem
@@ -59,6 +59,9 @@ A very simple game to guess the numerical representation of a letter in the alph
 A semi-trivial game, but I did this to try and teach myself to associate letters with numbers, not just the alphabetical order of letters
 
 <!--
+- [Bipartite Matching Algorithm - Flow Networks ](https://github.com/SleekPanther/bipartite-matching)  
+Extension of a Ford Fulkerson max flow problem to solve bipartite matching
+
 c++ rush hour
 
 Gpa calculator
