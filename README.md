@@ -32,7 +32,7 @@ Implementation of the classic 0-1 Integer Knapsack Problem
 Java Implementation to find a MST from a graph
 - [Breadth First Search / Depth First Search - Graph Algorithms](https://github.com/SleekPanther/breadth-first-search-depth-first-search-graphs)  
 Implementation of the common BFS & DFS algorithms
-- [Bipartite Graph Testing Algorithm](https://github.com/SleekPanther/bipartite-algorithm)  
+- [Bipartite Graph Testing Algorithm](https://github.com/SleekPanther/bipartite-testing)  
 Modification of Breadth First Search to identify bipartite graphs
 - [Ford Fulkerson Max Flow Algorithm - Flow Networks](https://github.com/SleekPanther/ford-fulkerson)  
 Finds max flow / min cut in a Flow Network. (Simple version, no capacity scaling)
