@@ -61,7 +61,18 @@ A very simple game to guess the numerical representation of a letter in the alph
 A semi-trivial game, but I did this to try and teach myself to associate letters with numbers, not just the alphabetical order of letters
 
 <!--
+- [3-SAT (Satisfiability) Certifier](https://github.com/SleekPanther/3-sat-certifier)  
+Polynomial-time certifier algorithm for the NP-Complete 3-SAT Problem
 
+- sequence alignment
+make another 2D table (min predecessor)
+each cell holds the [i,j] of where the value came from
+then retrace steps while (i & j > 0 )
+mismatch(string x, string y) = String[] vowels, String[] consonents. If consonants.contain(x)...
+returnn a mismatch pentalty as CONSTANTS
+also CONSTANT for delta, Gap penalty
+
+- Bellman-Ford (dynamic)
 
 c++ rush hour
 
