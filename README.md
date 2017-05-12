@@ -26,20 +26,6 @@ Site runs in Node.js but I mostly worked on the front-end
 Replicated a simple Android app using JavaFX & skills I learned from CS 110 at UVM
 - [Tetris Game](https://github.com/SleekPanther/tetris-java)  
 Final Project for CS 110 at UVM
-- [Knapsack Problem - Dynamic Programming](https://github.com/SleekPanther/knapsack-problem)  
-Implementation of the classic 0-1 Integer Knapsack Problem
-- [Kruskal's Algorithm Minimum Spanning Tree](https://github.com/SleekPanther/kruskals-algorithm-minimum-spanning-tree-mst)  
-Java Implementation to find a MST from a graph
-- [Breadth First Search / Depth First Search - Graph Algorithms](https://github.com/SleekPanther/breadth-first-search-depth-first-search-graphs)  
-Implementation of the common BFS & DFS algorithms
-- [Bipartite Graph Testing Algorithm](https://github.com/SleekPanther/bipartite-testing)  
-Modification of Breadth First Search to identify bipartite graphs
-- [Ford Fulkerson Max Flow Algorithm - Flow Networks](https://github.com/SleekPanther/ford-fulkerson)  
-Finds max flow / min cut in a Flow Network. (Simple version, no capacity scaling)
-- [Bipartite Matching Algorithm - Flow Networks ](https://github.com/SleekPanther/bipartite-matching)  
-Extension of a Ford Fulkerson max flow problem to solve bipartite matching
-- [Interval Partitioning (Greedy Algorithm)](https://github.com/SleekPanther/interval-partitioning-greedy-algorithm)  
-Java Implementation of the greedy algorithm for the Interval Partitioning Problem
 - [Fibonacci Algorithms Runtime Comparison](https://github.com/SleekPanther/fibonacci-algorithms-comparison)  
 Array Memoization, Recursive & Phi (Golden Ratio) formula
 - [Prime Factorization (Java)](https://github.com/SleekPanther/prime-factor-java)  
@@ -52,6 +38,28 @@ A function that allows you to specify how many decimals to round to
 Several overloaded methods to allow you to specify an upper and lower bound for random numbers
 - [Loop Performace (`i++` vs `++i`)](https://github.com/SleekPanther/loop-performance)  
 Runtime comparison between post and pre increment
+- **Algorithm Implementations**
+  - **Graph Algorithms**
+    - [Breadth First Search / Depth First Search - Graph Algorithms](https://github.com/SleekPanther/breadth-first-search-depth-first-search-graphs)  
+    Implementation of the common BFS & DFS algorithms
+    - [Bipartite Graph Testing Algorithm](https://github.com/SleekPanther/bipartite-testing)  
+    Modification of Breadth First Search to identify bipartite graphs
+  - **Greedy**
+    - [Interval Partitioning (Greedy Algorithm)](https://github.com/SleekPanther/interval-partitioning-greedy-algorithm)  
+    Java Implementation of the greedy algorithm for the Interval Partitioning Problem
+    - [Kruskal's Algorithm Minimum Spanning Tree](https://github.com/SleekPanther/kruskals-algorithm-minimum-spanning-tree-mst)  
+    Java Implementation to find a MST from a graph
+  - **Dynamic Programming**
+    - [Knapsack Problem - Dynamic Programming](https://github.com/SleekPanther/knapsack-problem)  
+    Implementation of the classic 0-1 Integer Knapsack Problem
+  - **Flow Networks**
+    - [Ford Fulkerson Max Flow Algorithm - Flow Networks](https://github.com/SleekPanther/ford-fulkerson)  
+    Finds max flow / min cut in a Flow Network. (Simple version, no capacity scaling)
+    - [Bipartite Matching Algorithm - Flow Networks ](https://github.com/SleekPanther/bipartite-matching)  
+    Extension of a Ford Fulkerson max flow problem to solve bipartite matching
+  - **NP-Complete Certifiers**
+    - [3-SAT (Satisfiability) Certifier](https://github.com/SleekPanther/3-sat-certifier)  
+    Polynomial-time certifier algorithm for the NP-Complete 3-SAT Problem
 
 ## Python
 - [Binary Hexadecimal Conversion](https://github.com/SleekPanther/binary-hexadecimal-conversion)  
@@ -61,19 +69,6 @@ A very simple game to guess the numerical representation of a letter in the alph
 A semi-trivial game, but I did this to try and teach myself to associate letters with numbers, not just the alphabetical order of letters
 
 <!--
-- [3-SAT (Satisfiability) Certifier](https://github.com/SleekPanther/3-sat-certifier)  
-Polynomial-time certifier algorithm for the NP-Complete 3-SAT Problem
-
-- sequence alignment
-make another 2D table (min predecessor)
-each cell holds the [i,j] of where the value came from
-then retrace steps while (i & j > 0 )
-mismatch(string x, string y) = String[] vowels, String[] consonents. If consonants.contain(x)...
-returnn a mismatch pentalty as CONSTANTS
-also CONSTANT for delta, Gap penalty
-
-- Bellman-Ford (dynamic)
-
 c++ rush hour
 
 Gpa calculator
