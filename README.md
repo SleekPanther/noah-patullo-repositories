@@ -68,8 +68,10 @@ Convert hex to binary & binary to hex
 A very simple game to guess the numerical representation of a letter in the alphabet, or guess the letter from the number (A=1,B=2,...Z=26).  
 A semi-trivial game, but I did this to try and teach myself to associate letters with numbers, not just the alphabetical order of letters
 
-<!--
-c++ rush hour
+## C++
+-  [Rush Hour Game](https://github.com/SleekPanther/rush-hour-game)  
+Group Project creating a version of the board game **Rush Hour** in C++ using OpenGL & GLUT
 
+<!--
 Gpa calculator
 -->
