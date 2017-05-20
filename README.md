@@ -4,10 +4,10 @@ A list of projects I've worked on
 
 ## Websites (web related)
 - [PHP Magic Linking](https://github.com/SleekPanther/php-magic-linking)  
-My own invention: a php template that simplifies linking to nested folders & automatically print the correct number of `../` before links
+My own invention: a PHP template that simplifies linking to nested folders & automatically print the correct number of `../` before links
 - [Merrill's Roxy Cinema](https://github.com/SleekPanther/roxy)  
 Website Final project for database class (CS 148) focusing on the back end managing adding movies & updating showtimes for a generic movie theater
-- [Invert Checkbox Selection (& deselect radion buttons)](https://github.com/SleekPanther/checkbox-toggle-selection)  
+- [Invert Checkbox Selection (& deselect radio buttons)](https://github.com/SleekPanther/checkbox-toggle-selection)  
 I created my own jQuery functions based on several examples because I wasn't happy with any existing solutions
 - [UVM Bikes](https://github.com/SleekPanther/uvmbikes)  
 Website Final Project for web design & css class (CS 142)
@@ -36,7 +36,7 @@ Used my knowledge of Java arrays to print out an arbitrary number of rows of Pas
 A function that allows you to specify how many decimals to round to
 - [Java Random() Improved](https://github.com/SleekPanther/java-math-improved-random)  
 Several overloaded methods to allow you to specify an upper and lower bound for random numbers
-- [Loop Performace (`i++` vs `++i`)](https://github.com/SleekPanther/loop-performance)  
+- [Loop Performance (`i++` vs `++i`)](https://github.com/SleekPanther/loop-performance)  
 Runtime comparison between post and pre increment
 - **Algorithm Implementations**
   - **Graph Algorithms**
@@ -52,6 +52,8 @@ Runtime comparison between post and pre increment
   - **Dynamic Programming**
     - [Knapsack Problem - Dynamic Programming](https://github.com/SleekPanther/knapsack-problem)  
     Implementation of the classic 0-1 Integer Knapsack Problem
+    - [Sequence Alignment](https://github.com/SleekPanther/sequence-alignment)  
+    Find the minimum cost of aligning 2 sequences allowing gap insertion
   - **Flow Networks**
     - [Ford Fulkerson Max Flow Algorithm - Flow Networks](https://github.com/SleekPanther/ford-fulkerson)  
     Finds max flow / min cut in a Flow Network. (Simple version, no capacity scaling)
