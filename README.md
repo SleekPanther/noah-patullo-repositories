@@ -50,7 +50,9 @@ Runtime comparison between post and pre increment
     - [Kruskal's Algorithm Minimum Spanning Tree](https://github.com/SleekPanther/kruskals-algorithm-minimum-spanning-tree-mst)  
     Java Implementation to find a MST from a graph
   - **Dynamic Programming**
-    - [Knapsack Problem - Dynamic Programming](https://github.com/SleekPanther/knapsack-problem)  
+    - [Weighted Interval Scheduling](https://github.com/SleekPanther/weighted-interval-scheduling)  
+    The classic Dynamic Programming problem implemented in Java
+    - [Knapsack Problem](https://github.com/SleekPanther/knapsack-problem)  
     Implementation of the classic 0-1 Integer Knapsack Problem
     - [Sequence Alignment](https://github.com/SleekPanther/sequence-alignment)  
     Find the minimum cost of aligning 2 sequences allowing gap insertion
