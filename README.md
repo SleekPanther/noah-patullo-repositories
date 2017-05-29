@@ -56,6 +56,8 @@ Runtime comparison between post and pre increment
     Implementation of the classic 0-1 Integer Knapsack Problem
     - [Sequence Alignment](https://github.com/SleekPanther/sequence-alignment)  
     Find the minimum cost of aligning 2 sequences allowing gap insertion
+    - [Bellman-Ford Algorithm](https://github.com/SleekPanther/bellman-ford)  
+    Shortest Paths from every vertex to a goal vertex allowing negative-weight edges
   - **Flow Networks**
     - [Ford Fulkerson Max Flow Algorithm - Flow Networks](https://github.com/SleekPanther/ford-fulkerson)  
     Finds max flow / min cut in a Flow Network. (Simple version, no capacity scaling)
