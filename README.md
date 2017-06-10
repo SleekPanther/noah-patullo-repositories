@@ -49,6 +49,9 @@ Runtime comparison between post and pre increment
     Java Implementation of the greedy algorithm for the Interval Partitioning Problem
     - [Kruskal's Algorithm Minimum Spanning Tree](https://github.com/SleekPanther/kruskals-algorithm-minimum-spanning-tree-mst)  
     Java Implementation to find a MST from a graph
+  - **Divide and Conquer**
+    - [Counting Inversions](https://github.com/SleekPanther/counting-inversions)  
+    Finds how similar 2 lists of rating are using the Divide and Conquer approach. Extension of MergeSort that actually displays the specific inversions as well as just counting the total number.
   - **Dynamic Programming**
     - [Weighted Interval Scheduling](https://github.com/SleekPanther/weighted-interval-scheduling)  
     The classic Dynamic Programming problem implemented in Java
