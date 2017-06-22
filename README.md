@@ -71,7 +71,7 @@ Runtime comparison between post and pre increment
     Polynomial-time certifier algorithm for the NP-Complete 3-SAT Problem
   - **Approximation Algorithms**
     - [Load Balancing Problem](https://github.com/SleekPanther/load-balancing-problem-approximation-algorithm)  
-    Approximation Algorithm for balancing job loads on machines. Does not guarantee an optimal solution, but instead, a solution is within a factor of 1.5 of the optimal solution
+    Approximation Algorithm for the NP-Complete problem of balancing job loads on machines. Does not guarantee an optimal solution, but instead, a solution is within a factor of 1.5 of the optimal solution
 
 ## Python
 - [Binary Hexadecimal Conversion](https://github.com/SleekPanther/binary-hexadecimal-conversion)  
