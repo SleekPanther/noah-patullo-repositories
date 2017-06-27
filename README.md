@@ -72,7 +72,7 @@ Runtime comparison between post and pre increment
   - **Approximation Algorithms**
     - [Load Balancing Problem](https://github.com/SleekPanther/load-balancing-problem-approximation-algorithm)  
     Approximation Algorithm for the NP-Complete problem of balancing job loads on machines. Does not guarantee an optimal solution, but instead, a solution is within a factor of 1.5 of the optimal solution
-    - [Minimum Weighted Vertex Cover(Pricing Method)](https://github.com/SleekPanther/minimum-weighted-vertex-cover-approximation-algorithm)  
+    - [Minimum Weighted Vertex Cover (Pricing Method)](https://github.com/SleekPanther/minimum-weighted-vertex-cover-approximation-algorithm)  
     Approximation Algorithm for the NP-Complete problem of finding a **vertex cover of minimum weight** in a graph with weighted vertices. Guarantees an answers at most **2 times** the optimal minimum weighted vertex cover
 
 ## Python
