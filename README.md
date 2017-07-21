@@ -66,6 +66,8 @@ Runtime comparison between post and pre increment
     Finds max flow / min cut in a Flow Network. (Simple version, no capacity scaling)
     - [Bipartite Matching Algorithm - Flow Networks ](https://github.com/SleekPanther/bipartite-matching)  
     Extension of a Ford Fulkerson max flow problem to solve bipartite matching
+    - [Circulation with Demands](https://github.com/SleekPanther/circulation-with-demands-network-flow)  
+    Given a directed graph with edge capacities and vertex demands, is there a circulation of flow?
   - **NP-Complete Certifiers**
     - [3-SAT (Satisfiability) Certifier](https://github.com/SleekPanther/3-sat-certifier)  
     Polynomial-time certifier algorithm for the NP-Complete 3-SAT Problem
