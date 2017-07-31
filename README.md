@@ -44,6 +44,8 @@ Runtime comparison between post and pre increment
     Implementation of the common BFS & DFS algorithms
     - [Bipartite Graph Testing Algorithm](https://github.com/SleekPanther/bipartite-testing)  
     Modification of Breadth First Search to identify bipartite graphs
+    - [Strong Connectivity](https://github.com/SleekPanther/graph-strong-connectivity)  
+    Application of Breadth-First Search to see if a directed graph is Strongly Connected
   - **Greedy**
     - [Interval Partitioning (Greedy Algorithm)](https://github.com/SleekPanther/interval-partitioning-greedy-algorithm)  
     Java Implementation of the greedy algorithm for the Interval Partitioning Problem
