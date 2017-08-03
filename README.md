@@ -40,12 +40,14 @@ Several overloaded methods to allow you to specify an upper and lower bound for 
 Runtime comparison between post and pre increment
 - **Algorithm Implementations**
   - **Graph Algorithms**
-    - [Breadth First Search / Depth First Search - Graph Algorithms](https://github.com/SleekPanther/breadth-first-search-depth-first-search-graphs)  
+    - [Breadth First Search / Depth First Search](https://github.com/SleekPanther/breadth-first-search-depth-first-search-graphs)  
     Implementation of the common BFS & DFS algorithms
     - [Bipartite Graph Testing Algorithm](https://github.com/SleekPanther/bipartite-testing)  
     Modification of Breadth First Search to identify bipartite graphs
     - [Strong Connectivity](https://github.com/SleekPanther/graph-strong-connectivity)  
     Application of Breadth-First Search to see if a directed graph is Strongly Connected
+    - [Topological Ordering](https://github.com/SleekPanther/topological-ordering)  
+    Finds a Topological Ordering of vertices in a Directed Acyclic Graph
   - **Greedy**
     - [Interval Partitioning (Greedy Algorithm)](https://github.com/SleekPanther/interval-partitioning-greedy-algorithm)  
     Java Implementation of the greedy algorithm for the Interval Partitioning Problem
@@ -64,9 +66,9 @@ Runtime comparison between post and pre increment
     - [Bellman-Ford Algorithm](https://github.com/SleekPanther/bellman-ford)  
     Shortest Paths from every vertex to a goal vertex allowing negative-weight edges
   - **Flow Networks**
-    - [Ford Fulkerson Max Flow Algorithm - Flow Networks](https://github.com/SleekPanther/ford-fulkerson)  
+    - [Ford Fulkerson Max Flow Algorithm](https://github.com/SleekPanther/ford-fulkerson)  
     Finds max flow / min cut in a Flow Network. (Simple version, no capacity scaling)
-    - [Bipartite Matching Algorithm - Flow Networks ](https://github.com/SleekPanther/bipartite-matching)  
+    - [Bipartite Matching Algorithm](https://github.com/SleekPanther/bipartite-matching)  
     Extension of a Ford Fulkerson max flow problem to solve bipartite matching
     - [Circulation with Demands](https://github.com/SleekPanther/circulation-with-demands-network-flow)  
     Given a directed graph with edge capacities and vertex demands, is there a circulation of flow?
