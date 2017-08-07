@@ -49,7 +49,9 @@ Runtime comparison between post and pre increment
     - [Topological Ordering](https://github.com/SleekPanther/topological-ordering)  
     Finds a Topological Ordering of vertices in a Directed Acyclic Graph
   - **Greedy**
-    - [Interval Partitioning (Greedy Algorithm)](https://github.com/SleekPanther/interval-partitioning-greedy-algorithm)  
+    - [Interval Scheduling](https://github.com/SleekPanther/interval-scheduling)  
+    Greedy Algorithm to find the maximum number of mutually compatible jobs
+    - [Interval Partitioning](https://github.com/SleekPanther/interval-partitioning-greedy-algorithm)  
     Java Implementation of the greedy algorithm for the Interval Partitioning Problem
     - [Kruskal's Algorithm Minimum Spanning Tree](https://github.com/SleekPanther/kruskals-algorithm-minimum-spanning-tree-mst)  
     Java Implementation to find a MST from a graph
