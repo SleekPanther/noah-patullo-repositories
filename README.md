@@ -53,6 +53,8 @@ Runtime comparison between post and pre increment
     Greedy Algorithm to find the maximum number of mutually compatible jobs
     - [Interval Partitioning](https://github.com/SleekPanther/interval-partitioning-greedy-algorithm)  
     Java Implementation of the greedy algorithm for the Interval Partitioning Problem
+    - [Minimizing Lateness](https://github.com/SleekPanther/minimize-lateness)  
+    Greedy Algorithm to minimize lateness when scheduling jobs on a processor
     - [Kruskal's Algorithm Minimum Spanning Tree](https://github.com/SleekPanther/kruskals-algorithm-minimum-spanning-tree-mst)  
     Java Implementation to find a MST from a graph
   - **Divide and Conquer**
