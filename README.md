@@ -55,8 +55,10 @@ Runtime comparison between post and pre increment
     Java Implementation of the greedy algorithm for the Interval Partitioning Problem
     - [Minimizing Lateness](https://github.com/SleekPanther/minimize-lateness)  
     Greedy Algorithm to minimize lateness when scheduling jobs on a processor
-    - [Kruskal's Algorithm Minimum Spanning Tree](https://github.com/SleekPanther/kruskals-algorithm-minimum-spanning-tree-mst)  
-    Java Implementation to find a MST from a graph
+    - [Kruskal's Algorithm](https://github.com/SleekPanther/kruskals-algorithm-minimum-spanning-tree-mst)  
+    Finds a Minimum Spanning Tree from a graph. Add lowest weight edges unless doing so causes a cycle.
+    - [Reverse Delete Algorithm](https://github.com/SleekPanther/reverse-delete-algorithm)  
+    Greedy Algorithm to find a minimum spanning tree in an undirected graph by deleting heaviest edges unless it would disconnect the graph
   - **Divide and Conquer**
     - [Counting Inversions](https://github.com/SleekPanther/counting-inversions)  
     Finds how similar 2 lists of rating are using the Divide and Conquer approach. Extension of MergeSort that actually displays the specific inversions as well as just counting the total number.
