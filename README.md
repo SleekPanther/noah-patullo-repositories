@@ -26,6 +26,8 @@ Site runs in Node.js but I mostly worked on the front-end
 Replicated a simple Android app using JavaFX & skills I learned from CS 110 at UVM
 - [Tetris Game](https://github.com/SleekPanther/tetris-java)  
 Final Project for CS 110 at UVM
+- [Set Game Valid Set Finder](https://github.com/SleekPanther/set-game)  
+Algorithm to find valid sets in the [Game Set](https://en.wikipedia.org/wiki/Set_(game)) & potentiall provide hints. Iteratively implements n choose k for combinations & checks if any are a valid set.
 - [Fibonacci Algorithms Runtime Comparison](https://github.com/SleekPanther/fibonacci-algorithms-comparison)  
 Array Memoization, Recursive & Phi (Golden Ratio) formula
 - [Prime Factorization (Java)](https://github.com/SleekPanther/prime-factor-java)  
