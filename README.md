@@ -22,6 +22,8 @@ Website for a Student-run club that lends out free textbooks to UVM students
 Site runs in Node.js but I mostly worked on the front-end
 
 ## Java
+- [GPA Calculator](https://github.com/SleekPanther/gpa-calculator)  
+A GPA calculator in JavaFX attempting to use the [**Model View Controller** (MVC) pattern](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 - [Even or Odd Game](https://github.com/SleekPanther/even-odd-game)  
 Replicated a simple Android app using JavaFX & skills I learned from CS 110 at UVM
 - [Tetris Game](https://github.com/SleekPanther/tetris-java)  
@@ -99,7 +101,3 @@ A semi-trivial game, but I did this to try and teach myself to associate letters
 ## C++
 -  [Rush Hour Game](https://github.com/SleekPanther/rush-hour-game)  
 Group Project creating a version of the board game **Rush Hour** in C++ using OpenGL & GLUT
-
-<!--
-Gpa calculator
--->
