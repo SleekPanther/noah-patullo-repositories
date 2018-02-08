@@ -2,7 +2,11 @@
 A list of projects I've worked on  
 [LinkedIn Profile](https://www.linkedin.com/in/NoahPatullo)
 
-## Websites (web related)
+## Chrome Extensions
+- [UVM Blackboard Autofill NetID](https://github.com/SleekPanther/uvm-blackboard-autofill-netid)  
+Autofill NetID when logging into Blackboard & syncs across signed-in Chrome browsers
+
+## Websites
 - [PHP Magic Linking](https://github.com/SleekPanther/php-magic-linking)  
 My own invention: a PHP template that simplifies linking to nested folders & automatically print the correct number of `../` before links
 - [Merrill's Roxy Cinema](https://github.com/SleekPanther/roxy)  
