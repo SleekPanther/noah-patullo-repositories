@@ -3,6 +3,8 @@ A list of projects I've worked on
 [LinkedIn Profile](https://www.linkedin.com/in/NoahPatullo)
 
 ## Chrome Extensions
+- [Password Revealer with Keyboard Shortcut](https://github.com/SleekPanther/password-revealer-with-keyboard-shortcut)  
+Simple extension to reveal password via button click or `Alt+R`
 - [UVM Blackboard Autofill NetID](https://github.com/SleekPanther/uvm-blackboard-autofill-netid)  
 Autofill NetID when logging into Blackboard & syncs across signed-in Chrome browsers
 
