@@ -34,7 +34,7 @@ A GPA calculator in JavaFX attempting to use the [**Model View Controller** (MVC
 Replicated a simple Android app using JavaFX & skills I learned from CS 110 at UVM
 - [Tetris Game](https://github.com/SleekPanther/tetris-java)  
 Final Project for CS 110 at UVM
-- [Masterming Board Game](https://github.com/SleekPanther/mastermind-game)  
+- [Mastermind Board Game](https://github.com/SleekPanther/mastermind-game)  
 Command line implementation of the board game Mastermind for a Software Engineering class
 - [Set Game Valid Set Finder](https://github.com/SleekPanther/set-game)  
 Algorithm to find valid sets in the [Game Set](https://en.wikipedia.org/wiki/Set_(game)) & potentiall provide hints. Iteratively implements n choose k for combinations & checks if any are a valid set.
@@ -109,3 +109,8 @@ A semi-trivial game, but I did this to try and teach myself to associate letters
 ## C++
 -  [Rush Hour Game](https://github.com/SleekPanther/rush-hour-game)  
 Group Project creating a version of the board game **Rush Hour** in C++ using OpenGL & GLUT
+
+<!--
+sorry java
+saved tab groups
+-->
