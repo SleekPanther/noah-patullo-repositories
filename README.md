@@ -34,6 +34,8 @@ A GPA calculator in JavaFX attempting to use the [**Model View Controller** (MVC
 Replicated a simple Android app using JavaFX & skills I learned from CS 110 at UVM
 - [Tetris Game](https://github.com/SleekPanther/tetris-java)  
 Final Project for CS 110 at UVM
+- [Minesweeper Algorithm](https://github.com/SleekPanther/minesweeper-algorithm)  
+Simple iterative solution to counts mines in Minesweeper
 - [Mastermind Board Game](https://github.com/SleekPanther/mastermind-game)  
 Command line implementation of the board game Mastermind for a Software Engineering class
 - [Set Game Valid Set Finder](https://github.com/SleekPanther/set-game)  
@@ -109,8 +111,3 @@ A semi-trivial game, but I did this to try and teach myself to associate letters
 ## C++
 -  [Rush Hour Game](https://github.com/SleekPanther/rush-hour-game)  
 Group Project creating a version of the board game **Rush Hour** in C++ using OpenGL & GLUT
-
-<!--
-sorry java
-saved tab groups
--->
