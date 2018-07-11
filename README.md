@@ -3,6 +3,8 @@ A list of projects I've worked on
 [LinkedIn Profile](https://www.linkedin.com/in/NoahPatullo)
 
 ## Chrome Extensions
+- [YouTube Chronological Order](https://github.com/SleekPanther/youtube-chronological-order)  
+Intended to help you binge all the videos from a channel oldest to newest easily & simply
 - [Password Revealer with Keyboard Shortcut](https://github.com/SleekPanther/password-revealer-with-keyboard-shortcut)  
 Simple extension to reveal password via button click or `Alt+R`
 - [UVM Blackboard Autofill NetID](https://github.com/SleekPanther/uvm-blackboard-autofill-netid)  
