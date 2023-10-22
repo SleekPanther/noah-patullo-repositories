@@ -8,7 +8,7 @@ A list of projects I've worked on
 
 ## Web/JavaScript
 - [tolowercase](https://github.com/SleekPanther/tolowercase) A joke idea to convert any text input to lowercase
-- [Moveie Endtimes](https://github.com/SleekPanther/movie-endtimes) A few JavaScript functions to identify which movie you should see first in order to minimize the time between
+- [Movie Endtimes](https://github.com/SleekPanther/movie-endtimes) A few JavaScript functions to identify which movie you should see first in order to minimize the time between
 
 ## Chrome Extensions
 - [YouTube Chronological Order](https://github.com/SleekPanther/youtube-chronological-order)  
