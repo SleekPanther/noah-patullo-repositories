@@ -2,6 +2,14 @@
 A list of projects I've worked on  
 [LinkedIn Profile](https://www.linkedin.com/in/NoahPatullo)
 
+## C# Projects
+- [NumberStringComparer](https://github.com/SleekPanther/NumberStringComparer) An enhancement for sorting to solve the problems with using mixed type collections
+- [Game of Life Simulator](https://github.com/SleekPanther/game-of-life) A C# implementation of John Conway's Game of Life
+
+## Web/JavaScript
+- [tolowercase](https://github.com/SleekPanther/tolowercase) A joke idea to convert any text input to lowercase
+- [Moveie Endtimes](https://github.com/SleekPanther/movie-endtimes) A few JavaScript functions to identify which movie you should see first in order to minimize the time between
+
 ## Chrome Extensions
 - [YouTube Chronological Order](https://github.com/SleekPanther/youtube-chronological-order)  
 Intended to help you binge all the videos from a channel oldest to newest easily & simply
